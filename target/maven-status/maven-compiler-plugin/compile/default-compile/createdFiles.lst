@@ -1,13 +1,17 @@
 id\ac\unpas\praktikumpemrograman2\modul05\Tugas$1.class
 id\ac\unpas\praktikumpemrograman2\modul07\ManajemenNilaiSiswaApp$1.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan1.class
+id\ac\unpas\praktikumpemrograman2\modul08\controller\PersegiPanjangController$ResetListener.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan3$1.class
 id\ac\unpas\praktikumpemrograman2\modul06\ContohActionListener$1.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan4$1.class
 id\ac\unpas\praktikumpemrograman2\modul06\ContohMouseListener$1.class
 id\ac\unpas\praktikumpemrograman2\modul07\ManajemenNilaiSiswaApp.class
 id\ac\unpas\praktikumpemrograman2\modul06\Latihan1.class
+id\ac\unpas\praktikumpemrograman2\modul08\controller\PersegiPanjangController$HitungListener.class
+id\ac\unpas\praktikumpemrograman2\modul08\view\PersegiPanjangView.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan4.class
+id\ac\unpas\praktikumpemrograman2\modul08\model\PersegiPanjangModel.class
 id\ac\unpas\praktikumpemrograman2\modul06\ContohActionListener.class
 id\ac\unpas\praktikumpemrograman2\modul07\tugasmodul7$1.class
 id\ac\unpas\praktikumpemrograman2\modul05\Tugas.class
@@ -20,7 +24,9 @@ id\ac\unpas\praktikumpemrograman2\modul06\Latihan2.class
 id\ac\unpas\praktikumpemrograman2\modul06\ContohMouseListener.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan1$1.class
 id\ac\unpas\praktikumpemrograman2\modul06\ContohBorderLayout.class
+id\ac\unpas\praktikumpemrograman2\modul08\Main.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan2$1.class
+id\ac\unpas\praktikumpemrograman2\modul08\controller\PersegiPanjangController.class
 id\ac\unpas\praktikumpemrograman2\modul05\Latihan3.class
 id\ac\unpas\praktikumpemrograman2\modul07\tugasmodul7$2.class
 id\ac\unpas\praktikumpemrograman2\modul07\tugasmodul7.class
